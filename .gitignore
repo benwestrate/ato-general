@@ -1,0 +1,15 @@
+app
+auth0-javascript-samples
+AWS\ Access\ Keys
+certs
+*.zip
+deviceInfo.json
+node_modules
+light-controller\ copy\ 
+test-light-controller\ 2
+raspberryPi
+.env
+serverless-ato
+webApp
+event.json
+.lambda

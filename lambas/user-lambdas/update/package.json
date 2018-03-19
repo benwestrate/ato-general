@@ -1,0 +1,20 @@
+{
+  "name": "lighting",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.handler",
+  "scripts": {
+    "setup": "node-lambda setup",
+    "start": "node-lambda run",
+    "deploy": "node-lambda deploy"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dynamodb-doc": "^1.0.0",
+    "node-uuid-generator": "^1.0.0"
+  },
+  "devDependencies": {
+    "lambda-bundler": "^1.0.1"
+  }
+}

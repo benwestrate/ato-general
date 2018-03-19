@@ -1,0 +1,17 @@
+{
+  "name": "lighting",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.handler",
+  "scripts": {
+    "setup": "node-lambda setup",
+    "start": "node-lambda run",
+    "deploy": "node-lambda deploy"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "auth0": "^2.5.0",
+    "lambda-bundler": "^1.0.1"
+  }
+}

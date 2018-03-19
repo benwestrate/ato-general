@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+     <key>Label</key>
+     <string>com.user.loginscript</string>
+     <key>ProgramArguments</key>
+     <array><string>/Users/Ben/Dropbox/Sites/Personal/home-atomation/ato/hardware/mac-mini-startup/start.sh</string></array>
+     <key>RunAtLoad</key>
+     <true/>
+  </dict>
+</plist>

@@ -1,0 +1,10 @@
+[
+  {
+    // App1
+    "uid": "kitchen-lights",
+    "append": true,
+    "watch": true,
+    "script": "index.js",
+    "sourceDir": "/Users/Ben/Dropbox/Sites/Personal/home-atomation/ato/hardware/cablights"
+  }
+]

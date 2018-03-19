@@ -1,0 +1,14 @@
+{
+  "name": "applicaiton-clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.14",
+    "moment": "^2.18.1",
+    "request": "^2.81.0"
+  }
+}

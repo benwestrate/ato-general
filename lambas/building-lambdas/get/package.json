@@ -1,0 +1,18 @@
+{
+  "name": "get",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/node-lambda/bin/node-lambda run",
+    "setup": "./node_modules/node-lambda/bin/node-lambda setup",
+    "package": "./node_modules/node-lambda/bin/node-lambda package",
+    "deploy": "./node_modules/node-lambda/bin/node-lambda deploy"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dynamodb-doc": "^1.0.0",
+    "node-lambda": "^0.8.10"
+  }
+}

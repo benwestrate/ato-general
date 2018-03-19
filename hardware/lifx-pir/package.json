@@ -1,0 +1,20 @@
+{
+  "name": "pirtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.14",
+    "lifx": "^0.3.1",
+    "moment": "^2.18.1",
+    "mqtt": "^2.13.0",
+    "node-lifx": "^0.8.0",
+    "particle-api-js": "^6.5.0",
+    "request": "^2.81.0"
+  }
+}

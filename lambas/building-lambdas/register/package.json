@@ -1,0 +1,23 @@
+{
+  "name": "register",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/node-lambda/bin/node-lambda run",
+    "setup": "./node_modules/node-lambda/bin/node-lambda setup",
+    "package": "./node_modules/node-lambda/bin/node-lambda package",
+    "deploy": "./node_modules/node-lambda/bin/node-lambda deploy"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "node-lambda": "^0.8.10"
+  },
+  "dependencies": {
+    "dynamodb-doc": "^1.0.0",
+    "geocoder": "^0.2.2",
+    "node-uuid-generator": "^1.0.0",
+    "zipcodes": "^2.1.0"
+  }
+}
